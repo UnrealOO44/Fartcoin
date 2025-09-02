@@ -1,0 +1,30 @@
+﻿{
+	"version": 1756842130,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/ground-sheet0.png",
+		"images/gasmeter-sheet0.png",
+		"images/platforms-sheet0.png",
+		"images/destroyer-sheet0.png",
+		"images/cions-sheet0.png",
+		"images/beans-sheet0.png",
+		"images/specialbeans-sheet0.png",
+		"images/spawner-sheet0.png",
+		"images/timing-sheet0.png",
+		"images/empty-sheet0.png",
+		"images/goup-sheet0.png",
+		"images/dragger-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/controls-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
