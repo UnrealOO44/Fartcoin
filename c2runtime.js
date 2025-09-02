@@ -19136,6 +19136,5 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Touch.prototype.exps.Y,
 	cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
 	cr.plugins_.Touch.prototype.cnds.OnTouchEnd,
-	cr.system_object.prototype.exps.lerp,
 	cr.system_object.prototype.cnds.Compare
 ];};
