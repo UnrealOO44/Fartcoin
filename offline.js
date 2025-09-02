@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1756845990,
+	"version": 1756846303,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,7 +19,7 @@
 		"images/goup-sheet0.png",
 		"images/dragger-sheet0.png",
 		"images/sprite-sheet0.png",
-		"images/controls-sheet0.png",
+		"images/goleft-sheet0.png",
 		"images/joyhandle-sheet0.png",
 		"images/joytop-sheet0.png",
 		"icon-16.png",
